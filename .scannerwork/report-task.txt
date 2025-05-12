@@ -1,0 +1,7 @@
+organization=sep-arguspanoptes
+projectKey=SEP-ArgusPanoptes_terraform-provider-unleash
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63215
+dashboardUrl=https://sonarcloud.io/dashboard?id=SEP-ArgusPanoptes_terraform-provider-unleash
+ceTaskId=AZbFJNYLooQzi7lK1NR4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZbFJNYLooQzi7lK1NR4
